@@ -6,9 +6,9 @@ export * from './lib/ngx-chimoney-airtime-payouts.service';
 export * from './lib/ngx-chimoney-airtime-payouts.component';
 
 // module components
-export * from './lib/airtime/airtime.module';
-export * from './lib/bank/bank.module';
-export * from './lib/payouts/payouts.module';
+// export * from './lib/airtime/airtime.module';
+// export * from './lib/bank/bank.module';
+// export * from './lib/payouts/payouts.module';
 
 
 // components
